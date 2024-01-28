@@ -7,7 +7,7 @@ class HomeComponent extends React.Component {
     return (
       <div className='startPage-container'>
         <div className='quiz-app'>
-          <h1>Quiz App</h1>
+          <h3>Quiz App</h3>
         </div>
         <div className='play-sec'>
           <NavLink to="/Quiz">
